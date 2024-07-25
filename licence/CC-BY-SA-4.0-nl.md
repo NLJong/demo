@@ -1,7 +1,5 @@
 # Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal Publieke Licentie
 
-[🇺🇸](CC-BY-SA-4.0-en.md) 🇳🇱
-
 Door het uitoefenen van de door de licentie verleende rechten (zoals hieronder omschreven), ga Je akkoord met de voorwaarden en condities van deze Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationale Publieke Licentie ("Publieke Licentie"). Voor zover deze Publieke Licentie geïnterpreteerd kan worden als een contract, worden Jou de gelicenseerde rechten verleend met inachtneming van Jouw aanvaarding van deze voorwaarden en condities, en de Licentiegever verleent Jou deze rechten met inachtneming van de voordelen die de Licentiegever ontvangt door het beschikbaar stellen van het Gelicenseerde Materiaal onder deze voorwaarden en condities.
 
 ## 1. Definitions
