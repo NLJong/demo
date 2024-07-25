@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "bierner.github-markdown-preview",
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-checkbox",
+        "bierner.markdown-emoji",
+        "bierner.markdown-footnotes",
+        "yzane.markdown-pdf",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-mermaid",
+        "davidanson.vscode-markdownlint"
+    ]
+}
