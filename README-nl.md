@@ -7,6 +7,10 @@
 
 ---
 
+## Credits
+
+- [Lipis's `flag-icons`](https://github.com/lipis/flag-icons)
+
 ## Licentie
 
 De code van deze repository is in licentie gegeven krachtens de [Openbare Licentie van de Europese Unie v1.2](licence/EUPL-1.2-nl.md).
