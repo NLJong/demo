@@ -1,6 +1,9 @@
 # NLJong demonstratie
 
-[🇬🇧](README-en.md) 🇳🇱
+[![read in English][gb-inactive]](README-en.md) ![in het Nederlands aan het lezen][nl-active]
+
+[gb-inactive]: https://shorturl.at/phv8r
+[nl-active]: https://shorturl.at/0o9bu
 
 ---
 
