@@ -1,6 +1,6 @@
 # Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal Publieke Licentie
 
-[![read in English][us-inactive]](CC-BY-SA-4.0-en.md) ![in het Nederlands aan het lezen][nl-active]
+[![read in English][us-inactive]](CC-BY-SA-4.0-en.md) [![in het Nederlands aan het lezen][nl-active]]()
 
 [us-inactive]: https://shorturl.at/dBcRU
 [nl-active]: https://shorturl.at/0o9bu
