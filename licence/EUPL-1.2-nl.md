@@ -1,5 +1,10 @@
 # Openbare Licentie van de Europese Unie v1.2
 
+[![read in English][us-inactive]](EUPL-1.2-en.md) ![in het Nederlands aan het lezen][nl-active]
+
+[us-inactive]: https://shorturl.at/dBcRU
+[nl-active]: https://shorturl.at/0o9bu
+
 > EUPL © Europese Unie 2007, 2016
 
 Deze openbare licentie van de Europese Unie ("EUPL") is van toepassing op het werk (zoals hieronder gedefinieerd) dat onder de voorwaarden van deze licentie wordt verstrekt. Elk gebruik van het werk dat niet door deze licentie is toegestaan, is verboden (voor zover dit gebruik valt onder een recht van de houder van het auteursrecht op het werk).
