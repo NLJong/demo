@@ -1,6 +1,6 @@
 # Openbare Licentie van de Europese Unie v1.2
 
-[![read in English][us-inactive]](EUPL-1.2-en.md) [![in het Nederlands aan het lezen][nl-active]]()
+[![read in English][us-inactive]](EUPL-1.2-en.md) [![in het Nederlands aan het lezen][nl-active]](#)
 
 [us-inactive]: https://shorturl.at/dBcRU
 [nl-active]: https://shorturl.at/0o9bu

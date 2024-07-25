@@ -1,6 +1,6 @@
 # European Union Public Licence v1.2
 
-[![reading in English][us-active]]() [![lees in het Nederlands][nl-inactive]](EUPL-1.2-nl.md)
+[![reading in English][us-active]](#) [![lees in het Nederlands][nl-inactive]](EUPL-1.2-nl.md)
 
 [us-active]: https://shorturl.at/5agTr
 [nl-inactive]: https://shorturl.at/gYPmn

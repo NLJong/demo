@@ -1,6 +1,6 @@
 # Creative Commons Attribution-ShareAlike 4.0 International Public License
 
-[![reading in English][us-active]]() [![lees in het Nederlands][nl-inactive]](CC-BY-SA-4.0-nl.md)
+[![reading in English][us-active]](#) [![lees in het Nederlands][nl-inactive]](CC-BY-SA-4.0-nl.md)
 
 [us-active]: https://shorturl.at/5agTr
 [nl-inactive]: https://shorturl.at/gYPmn
