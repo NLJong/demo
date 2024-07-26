@@ -2,8 +2,8 @@
 
 [![reading in English][us-active]](#) [![lees in het Nederlands][nl-inactive]](CC-BY-SA-4.0-nl.md)
 
-[us-active]: https://shorturl.at/5agTr
-[nl-inactive]: https://shorturl.at/gYPmn
+[us-active]: https://img.shields.io/badge/English-2f5c66?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb25zLXVzIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxwYXRoIGZpbGw9IiNiZDNkNDQiIGQ9Ik0wIDBoNjQwdjQ4MEgwIi8+DQogIDxwYXRoIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzNyIgZD0iTTAgNTUuM2g2NDBNMCAxMjloNjQwTTAgMjAzaDY0ME0wIDI3N2g2NDBNMCAzNTFoNjQwTTAgNDI1aDY0MCIvPg0KICA8cGF0aCBmaWxsPSIjMTkyZjVkIiBkPSJNMCAwaDM2NC44djI1OC41SDAiLz4NCiAgPG1hcmtlciBpZD0idXMtYSIgbWFya2VySGVpZ2h0PSIzMCIgbWFya2VyV2lkdGg9IjMwIj4NCiAgICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJtMTQgMCA5IDI3TDAgMTBoMjhMNSAyN3oiLz4NCiAgPC9tYXJrZXI+DQogIDxwYXRoIGZpbGw9Im5vbmUiIG1hcmtlci1taWQ9InVybCgjdXMtYSkiIGQ9Im0wIDAgMTYgMTFoNjEgNjEgNjEgNjEgNjBMNDcgMzdoNjEgNjEgNjAgNjFMMTYgNjNoNjEgNjEgNjEgNjEgNjBMNDcgODloNjEgNjEgNjAgNjFMMTYgMTE1aDYxIDYxIDYxIDYxIDYwTDQ3IDE0MWg2MSA2MSA2MCA2MUwxNiAxNjZoNjEgNjEgNjEgNjEgNjBMNDcgMTkyaDYxIDYxIDYwIDYxTDE2IDIxOGg2MSA2MSA2MSA2MSA2MHoiLz4NCjwvc3ZnPg==
+[nl-inactive]: https://img.shields.io/badge/Nederlands-e2eaf2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb25zLW5sIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxwYXRoIGZpbGw9IiNhZTFjMjgiIGQ9Ik0wIDBoNjQwdjE2MEgweiIvPg0KICA8cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAxNjBoNjQwdjE2MEgweiIvPg0KICA8cGF0aCBmaWxsPSIjMjE0NjhiIiBkPSJNMCAzMjBoNjQwdjE2MEgweiIvPg0KPC9zdmc+
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
