@@ -27,7 +27,8 @@ tasks:
       - msg: "Cargo is not installed"
         sh: cargo --version
     cmds:
-      - cmd: cargo install mdbook mdbook-alerts mdbook-linkcheck mdbook-pdf
+      - cmd: cargo install mdbook mdbook-alerts mdbook-linkcheck
+      - cmd: cargo install mdbook-pdf --features fetch
 
   install:python:
     internal: true
