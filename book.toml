@@ -1,0 +1,27 @@
+[book]
+title = "Kennisplatform voor Nederlandse jongeren"
+authors = ["Luka Leer"]
+description = "Een platform voor Nederlandse jongeren om kennis te delen en te leren."
+src = "docs"
+language = "nl"
+multilingual = false
+
+[preprocessor.alerts]
+
+[output.html]
+theme = "theme"
+smart-punctuation = true
+git-repository-url = "https://github.com/NLJong/demo"
+edit-url-template = "https://github.com/NLJong/demo/edit/main/{path}"
+site-url = "https://demo.nlj.ong"
+additional-css = ["theme/pagetoc.css"]
+additional-js = ["theme/pagetoc.js"]
+
+# [output.pdf]
+# static_site_url = "https://demo.nlj.ong"
+
+# [output.pdf-outline]
+# like-wkhtmltopdf = true
+
+[output.linkcheck]
+follow-web-links = true

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:dc="http://purl.org/dc/elements/1.1">
+    <title property="dc:title">NLJong logo</title>
+    <desc property="dc:description">
+        Een gestilleerde weergave van drie personen die de handen ineen slaan,
+        gekleurd in een verloop van goudoranje naar geel.
+    </desc>
+
+    <metadata xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:publisher>Stichting voor Nederlandse jongeren</dc:publisher>
+                <dc:creator>Luka Leer</dc:creator>
+                <dc:contributor>Google</dc:contributor>
+                <dc:source>
+                    https://fonts.google.com/icons?selected=Material+Symbols+Outlined:diversity_2:FILL
+                </dc:source>
+                <dc:date>2024-07-17/2024-07-22</dc:date>
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0" />
+                <cc:attributionName>NLJong</cc:attributionName>
+                <cc:attributionURL>https://nlj.ong</cc:attributionURL>
+            </cc:Work>
+            <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0">
+                <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+                <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+                <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+                <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+                <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+                <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+            </cc:License>
+        </rdf:RDF>
+    </metadata>
+
+    <defs>
+        <linearGradient id="accent" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#e6b10e" />
+            <stop offset="50%" stop-color="#fcce40" />
+            <stop offset="100%" stop-color="#f4cf81" />
+        </linearGradient>
+    </defs>
+
+    <g id="logo" fill="url(#accent)">
+        <path id="top" d="
+            m 512,42.67
+            c -98.23,0 -148.85,98.29 -119.5,171.67
+            c -103.81,-7.63 -179.17,67.99 -179.17,163.25
+            c 0,99.92 79.14,177.36 217.58,300.75
+            l 60.83,-60.75
+            C 378.35,518.01 298.67,443.82 298.67,377.58
+            c 0,-45.42 32.63,-78.92 78.92,-78.92
+            c 39,0 49.81,9.94 114.17,85.33
+            h 39.42
+            c 36.74,-38.99 56.71,-83.59 115.25,-85.33
+            c 44.26,0 67.2,31.96 74.67,56.5
+            c 11.88,-1.25 52.44,-4.75 87.42,1.08
+            c -5.32263,-37.91321 -33.05801,-142.92 -177,-142.92
+            C 661,139.59 609.17,42.67 512,42.67
+            Z
+            
+            m 42.67,128
+            c 0,56.32 -85.33,56.32 -85.33,0
+            c 0,-56.39 85.33,-56.39 85.33,0
+            z
+        " />
+        <path id="left" d="
+            M 157.83,442.67
+            C 70.632308,494.50474 49.791697,599.75616 105.59,679.42
+            C 40.696379,686.95343 0,746.20519 0,804.25
+            c 0,125.18479 156.98474,170.47747 225.08,81.08
+            c 26.86114,56.42352 79.3924,96 148.25,96
+            C 548.65971,974.17823 580.66411,756.3292 608,620.74
+            L 524.83,598.32
+            C 507.85056,688.50334 494.90551,782.99832 440.5,859.67
+            C 422.72,883.84 400.36,896 373.33,896
+            C 261.88235,886.82317 300.47905,780.57184 323.16,714.67
+            L 302.91,680.5
+            c -121.77755,-23.76249 -141.83,-38.2883 -141.83,-96
+            c 0,-26.32979 13.77596,-48.61157 32,-62.92
+            c -19.59933,-26.7423 -31.6035,-65.80898 -35.25,-78.92
+            z
+            
+            M 128,761.59
+            c 56.45463,0 56.45463,85.34 0,85.34
+            c -56.454633,0 -56.454633,-85.34 0,-85.34
+            z
+        " />
+        <path id="right" d="
+            m 764.83,417
+            c -36.27,0 -76.12,6.08 -119.5,18.17 l 13.83,84.25
+            c 38.34304,-10.95791 204.83,-51.86631 204.83,64
+            c 0,57.10511 -18.8901,72.57307 -141.83,96
+            l -20.33,34.17
+            c 18.06518,53.11469 50.17159,108.72465 5.91,158.41
+            c -28.84957,30.20897 -72.32679,30.21829 -103.99,10.08
+            c -27.69387,49.24316 -34.59591,59.54527 -44.83,72.58
+            c 78.12903,50.7674 192.39193,30.64025 240,-69.33
+            C 867.08745,974.76234 1024,929.38333 1024,804.25
+            C 1024,746.21199 983.31315,686.9646 918.42,679.41
+            C 996.55666,567.85344 923.89761,416.99 764.84,416.99
+            Z
+            
+            M 896,760.5
+            c 55.22377,0 57.25655,86.42 1.09,86.42
+            c -56.27431,0 -58.63412,-86.42 -1.08,-86.42
+            z
+        " />
+    </g>
+</svg>

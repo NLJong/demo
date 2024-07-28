@@ -1,2 +1,9 @@
 # Based on https://github.com/github/gitignore
 
+# Tool
+## mdBook
+book/
+
+# Operating system
+## macOS
+.DS_Store

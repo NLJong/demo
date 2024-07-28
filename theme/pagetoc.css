@@ -1,0 +1,75 @@
+@media print {
+	.sidetoc {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1080px) {
+	.sidetoc {
+		display: none;
+	}
+}
+
+main {
+	position: relative;
+}
+
+.sidetoc {
+	right: 0;
+	position: absolute;
+}
+
+.pagetoc {
+	position: fixed;
+	z-index: 10;
+	width: 100%;
+	max-width: 15em;
+	margin-left: 1em;
+}
+
+.pagetoc a {
+	border-left: 1px solid var(--sidebar-bg);
+	color: var(--fg) !important;
+	display: block;
+	padding-bottom: 0.25em;
+	padding-top: 0.25em;
+	padding-left: 0.5em;
+	text-align: left;
+	text-decoration: none;
+}
+
+.pagetoc a:hover,
+.pagetoc a.active {
+	background: var(--sidebar-bg);
+	color: var(--sidebar-fg) !important;
+}
+
+.pagetoc .active {
+	background: var(--sidebar-bg);
+	color: var(--sidebar-fg);
+}
+
+.pagetoc .pagetoc-H2 {
+	padding-left: 1em;
+}
+
+.pagetoc .pagetoc-H3 {
+	padding-left: 2em;
+}
+
+.pagetoc .pagetoc-H4 {
+	padding-left: 3em;
+}
+
+.pagetoc .pagetoc-H5 {
+	display: none;
+}
+
+.pagetoc .pagetoc-H6 {
+	display: none;
+}
+
+.nav-chapters {
+	justify-content: flex-end;
+	padding-bottom: 0.5em;
+}
