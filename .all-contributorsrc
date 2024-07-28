@@ -1,0 +1,33 @@
+{
+	"projectName": "demo",
+	"projectOwner": "NLJong",
+	"files": [
+		"README-nl.md",
+		"README-en.md"
+	],
+	"commitConvention": "gitmoji",
+	"contributors": [
+		{
+			"login": "mahtaran",
+			"name": "Luka Leer",
+			"avatar_url": "https://avatars.githubusercontent.com/u/22727323?v=4",
+			"profile": "https://mahtaran.amuzil.com/",
+			"contributions": [
+				"business",
+				"code",
+				"content",
+				"doc",
+				"design",
+				"financial",
+				"ideas",
+				"infra",
+				"maintenance",
+				"projectManagement",
+				"question",
+				"research",
+				"security",
+				"translation"
+			]
+		}
+	]
+}
