@@ -11,7 +11,7 @@ struct Arguments {
 
 #[derive(Subcommand)]
 enum Command {
-    #[command(about = "Build the explanation as an HTML book")]
+    /// Build the explanation as an HTML book
     Build,
 }
 
