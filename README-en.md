@@ -1,4 +1,4 @@
-# NLJong demonstration
+# NLJong concept
 
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD013 MD042 -->

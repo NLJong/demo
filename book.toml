@@ -1,5 +1,5 @@
 [book]
-title = "Kennisplatform voor Nederlandse jongeren"
+title = "Het NLJong concept"
 authors = ["Luka Leer"]
 description = "Een platform voor Nederlandse jongeren om kennis te delen en te leren."
 src = "docs"
@@ -11,9 +11,9 @@ multilingual = false
 [output.html]
 theme = "theme"
 smart-punctuation = true
-git-repository-url = "https://github.com/NLJong/demo"
-edit-url-template = "https://github.com/NLJong/demo/edit/main/{path}"
-site-url = "https://demo.nlj.ong"
+git-repository-url = "https://github.com/NLJong/concept"
+edit-url-template = "https://github.com/NLJong/concept/edit/main/{path}"
+site-url = "https://concept.nlj.ong"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
 
