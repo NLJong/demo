@@ -1,5 +1,6 @@
 use clap::{Parser, Subcommand};
 use codespan_reporting::term::termcolor::ColorChoice;
+use log::error;
 use mdbook::{errors::Error, renderer::RenderContext, MDBook, Renderer};
 
 #[derive(Parser)]
@@ -54,7 +55,9 @@ fn main() {
 
     match &arguments.command {
         Command::Build => {
-            book.build().expect("Unable to build book");
+            if let Err(error) = book.build() {
+                error!("Error building book: {:?}", error);
+            }
         }
     };
 }
