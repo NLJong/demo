@@ -3,18 +3,6 @@
 version = 3
 
 [[package]]
-name = "NLJong_concept"
-version = "0.1.0"
-dependencies = [
- "clap 4.5.11",
- "colog",
- "log",
- "mdbook",
- "mdbook-alerts",
- "mdbook-linkcheck",
-]
-
-[[package]]
 name = "addr2line"
 version = "0.22.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1311,6 +1299,18 @@ name = "new_debug_unreachable"
 version = "1.0.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "650eef8c711430f1a879fdd01d4745a7deea475becfb90269c06775983bbf086"
+
+[[package]]
+name = "nljong-concept"
+version = "0.1.0"
+dependencies = [
+ "clap 4.5.11",
+ "codespan-reporting",
+ "colog",
+ "mdbook",
+ "mdbook-alerts",
+ "mdbook-linkcheck",
+]
 
 [[package]]
 name = "normpath"

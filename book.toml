@@ -6,8 +6,6 @@ src = "docs"
 language = "nl"
 multilingual = false
 
-[preprocessor.alerts]
-
 [output.html]
 theme = "theme"
 smart-punctuation = true
@@ -16,6 +14,3 @@ edit-url-template = "https://github.com/NLJong/concept/edit/main/{path}"
 site-url = "https://concept.nlj.ong"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
-
-[output.linkcheck]
-follow-web-links = true
