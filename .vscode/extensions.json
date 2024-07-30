@@ -9,6 +9,6 @@
 		"bierner.markdown-preview-github-styles",
 		"bierner.markdown-mermaid",
 		"davidanson.vscode-markdownlint",
-		"task.vscode-task"
+		"rust-lang.rust-analyzer"
 	]
 }

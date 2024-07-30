@@ -24,11 +24,8 @@ jobs:
       - name: Set-up Rust cache
         uses: Swatinem/rust-cache@v2
 
-      - name: Set-up Task
-        uses: arduino/setup-task@v2
-
       - name: Build book
-        run: task build
+        run: cargo run -- build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -1,6 +1,10 @@
 # Based on https://github.com/github/gitignore
 
 # Tool
+## Cargo
+debug/
+target/
+
 ## mdBook
 book/
 
