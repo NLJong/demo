@@ -24,11 +24,6 @@ jobs:
       - name: Set-up Rust cache
         uses: Swatinem/rust-cache@v2
 
-      - name: Set-up Python
-        uses: actions/setup-python@v4
-        with:
-          cache: pip
-
       - name: Set-up Task
         uses: arduino/setup-task@v2
 

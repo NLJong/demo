@@ -17,11 +17,5 @@ site-url = "https://demo.nlj.ong"
 additional-css = ["theme/pagetoc.css"]
 additional-js = ["theme/pagetoc.js"]
 
-[output.pdf]
-static_site_url = "https://demo.nlj.ong"
-
-[output.pdf-outline]
-like-wkhtmltopdf = true
-
 [output.linkcheck]
 follow-web-links = true
