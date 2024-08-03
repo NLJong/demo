@@ -2,24 +2,21 @@
 
 ---
 
-<!-- prettier-ignore -->
-> [!note]
+> [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
-<!-- prettier-ignore -->
-> [!tip]
+> [!TIP]
 > Optional information to help a user be more successful.
 
-<!-- prettier-ignore -->
-> [!important]
+> [!IMPORTANT]
 > Crucial information necessary for users to succeed.
 
-<!-- prettier-ignore -->
-> [!warning]
-> Critical content demanding immediate user attention due to potential risks. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac purus nec diam laoreet sollicitudin.
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Donec ac purus nec diam laoreet sollicitudin.
 
-<!-- prettier-ignore -->
-> [!caution]
+> [!CAUTION]
 > Negative potential consequences of an action.
 
 ## Samenvatting
