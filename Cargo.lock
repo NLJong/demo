@@ -1181,9 +1181,9 @@ dependencies = [
 
 [[package]]
 name = "mdbook-alerts"
-version = "0.6.1"
+version = "0.6.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a1364c9c31e3e759c7503d1c3e5544181d575bd794af31dc5c80be5fdbcd1a4f"
+checksum = "63a11a4b16d1b26d831f74d1088bb358aa7604373b4eb216bb962bee3650f6ae"
 dependencies = [
  "anyhow",
  "clap 4.5.13",
@@ -1971,9 +1971,9 @@ dependencies = [
 
 [[package]]
 name = "serde_json"
-version = "1.0.121"
+version = "1.0.122"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4ab380d7d9f22ef3f21ad3e6c1ebe8e4fc7a2000ccba2e4d71fc96f15b2cb609"
+checksum = "784b6203951c57ff748476b126ccb5e8e2959a5c19e5c617ab1956be3dbc68da"
 dependencies = [
  "itoa",
  "memchr",
