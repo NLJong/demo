@@ -10,6 +10,13 @@
   - Discussies
   - Dichtgetimmerd
 
+## Key features
+
+- User-friendly interface
+- Robust search
+- Comprehensive
+- Collaboration
+
 ## Focus on subject matter without pedantry
 
 Central to our approach is a focus on the subject matter itself, rather than on the pedantic details and formalities that often characterize academic writing and publishing. We believe that by emphasizing the substance and significance of ideas, rather than their adherence to narrow disciplinary standards or conventions, we can foster a more vibrant and dynamic intellectual community, one that is better equipped to tackle the complex challenges and questions facing our world today.
