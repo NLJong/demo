@@ -1,4 +1,8 @@
 {
+	"files.associations": {
+		".all-contributorsrc": "json",
+		"devenv.lock": "json"
+	},
 	"[markdown]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	}

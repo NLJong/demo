@@ -11,7 +11,11 @@
 .gitignore                    text
 
 ## Others
+.all-contributorsrc		      text
 .editorconfig                 text
+.envrc 					      text
+.prettierignore				  text
+devenv.lock					  text linguist-generated linguist-language=YAML
 
 # Documents
 ## Archives
@@ -42,7 +46,10 @@
 
 # Data
 *.json                        text
+*.toml						  text
 *.yaml                        text
 
 # Code
 *.nix						  text
+*.css						  text
+*.js 						  text
