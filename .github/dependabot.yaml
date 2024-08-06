@@ -9,7 +9,7 @@ updates:
     assignees:
       - "dependabot[bot]"
     reviewers:
-      - "@NLJong/beveliging"
+      - "NLJong/beveliging"
 
   - package-ecosystem: "github-actions"
     directory: "/"
@@ -20,4 +20,4 @@ updates:
     assignees:
       - "dependabot[bot]"
     reviewers:
-      - "@NLJong/beveliging"
+      - "NLJong/beveliging"
