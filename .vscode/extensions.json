@@ -9,6 +9,6 @@
 		"bierner.markdown-preview-github-styles",
 		"bierner.markdown-mermaid",
 		"davidanson.vscode-markdownlint",
-		"rust-lang.rust-analyzer"
+		"jnoortheen.nix-ide"
 	]
 }

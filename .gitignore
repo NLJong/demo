@@ -1,12 +1,12 @@
 # Based on https://github.com/github/gitignore
 
 # Tool
-## Cargo
-debug/
-target/
-
 ## mdBook
 book/
+
+## devenv
+.devenv*
+devenv.local.nix
 
 # Operating system
 ## macOS
