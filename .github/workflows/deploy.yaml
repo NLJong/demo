@@ -19,10 +19,12 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set-up Nix
-        uses: DeterminateSystems/nix-installer-action@v13
+        uses: cachix/install-nix-action@v27
 
       - name: Set-up Nix cache
-        uses: DeterminateSystems/magic-nix-cache-action@v7
+        uses: cachix/cachix-action@v14
+        with:
+          name: devenv
 
       - name: Set-up devenv
         run: nix profile install nixpkgs#devenv
