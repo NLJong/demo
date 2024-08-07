@@ -1,16 +1,5 @@
 version: 2
 updates:
-  - package-ecosystem: cargo
-    directory: /
-    schedule:
-      interval: daily
-    commit-message:
-      prefix: "⬆️ "
-    assignees:
-      - "dependabot[bot]"
-    reviewers:
-      - "NLJong/beveliging"
-
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
