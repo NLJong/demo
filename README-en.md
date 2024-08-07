@@ -32,6 +32,7 @@
 
 - [Lipis's `flag-icons`](https://github.com/lipis/flag-icons)
 - [Jorel Ali's `mdBook-pagetoc`](https://github.com/JorelAli/mdBook-pagetoc)
+- [Standard for Public Code](https://standard.publiccode.net)
 
 ## License
 
